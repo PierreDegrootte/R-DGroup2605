@@ -1,0 +1,20 @@
+.fontpage {
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.4) 50%), url(../../images/background.png);
+	color: white;
+	text-align: center;
+	background-attachment: fixed;
+	padding: 263.2px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.fontpage h1 {
+	font-size: 66px;
+	margin-bottom: 25px;
+}
+
+.fontpage h2 {
+	font-size: 33px;
+	font-weight: lighter;
+	margin-bottom: 100px;	
+}
